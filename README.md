@@ -4,6 +4,7 @@ I intend to document each major step of the project in a series of tutorials .Th
 #Tutorial List
 1. App rationale :http://www.blikoon.com/android/new-health-android-killer-app-idea-ryaneza  
 2. Project setup  :http://www.blikoon.com/tutorials/android-health-app-first-steps
+3. Building the ListView ,RecyclerView with MVC : http://www.blikoon.com/tutorials/android-health-app-design-building-the-listview-with-model-view-controller-pattern
 
 #Building
  Each tutorial is a self contained android project.Simply open it in Android Studio and build.The latest souurce code will be available in the last tutorial in the above list.
