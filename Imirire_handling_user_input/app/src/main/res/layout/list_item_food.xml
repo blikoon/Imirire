@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="#aaaaaf"
+    >
+
+
+    <CheckBox
+        android:id="@+id/list_item_food_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"/>
+
+    <TextView
+        android:id="@+id/list_item_food_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="foodName"
+        android:layout_marginLeft="70dp"
+        android:textSize="30dp"
+       />
+
+    <EditText
+        android:id="@+id/list_item_gram_input_field"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:hint="0.0"
+        android:layout_gravity="right"
+        android:inputType="number|numberDecimal"
+
+        />
+</LinearLayout>
