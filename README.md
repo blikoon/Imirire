@@ -2,6 +2,7 @@
 Imirire is an open source android Calorie Counter app targeted at East African users.Its goal is to provide an easy interface for people to know the direct effects of what they eat.
 I intend to document each major step of the project in a series of tutorials .The reason to be for the app is discussed in my blog post here : http://www.blikoon.com/android/new-health-android-killer-app-idea-ryaneza 
 #Tutorial List
+
 0. App rationale :http://www.blikoon.com/android/new-health-android-killer-app-idea-ryaneza  
 1. Project setup  :http://www.blikoon.com/tutorials/android-health-app-first-steps
 2. Building the ListView ,RecyclerView with MVC : http://www.blikoon.com/tutorials/android-health-app-design-building-the-listview-with-model-view-controller-pattern
