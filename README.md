@@ -11,3 +11,5 @@ I intend to document each major step of the project in a series of tutorials .Th
 
 #Building
  Each tutorial is a self contained android project.Simply open it in Android Studio and build.The latest souurce code will be available in the last tutorial in the above list.
+#License
+MIT
